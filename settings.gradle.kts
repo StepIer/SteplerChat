@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "SteplerChat"
-include ':app'
+include(":app")
